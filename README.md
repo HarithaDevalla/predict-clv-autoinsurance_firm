@@ -1,5 +1,5 @@
 # predict CLV autoinsurance
-took IIT-K hackathon dataset &amp; tried solving with my teammates.
+took IIT-K hackathon dataset &amp; tried solving with my teammates by applying possible models and analysing it.
 
 PROBLEM STATEMENT: 
 •	Business wants to identify the customers who will give the highest revenue for them by having a long term relationship with the company.
